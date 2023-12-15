@@ -1,11 +1,12 @@
-div {
-    background-color: beige;
-}
-
-    div {
-    background-color: blue;
-}
-
 .main {
-    background-color: brown;
+    background-color: aquamarine;
+}
+
+.border-div {
+    border-style: solid;
+}
+
+.main.border-div {
+    background-color: burlywood;
+    border-style; dotted;
 }
